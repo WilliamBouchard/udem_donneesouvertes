@@ -54,9 +54,11 @@ Il est composé de 5 caractères numériques.
 
 #### Municipalite
 Nom du territoire correspondant au code géographique.
-Designation
 
-#### Voici la liste des désignations possibles :
+#### Designation
+
+Voici la liste des désignations possibles :
+
     • Établissement amérindien
     • Municipalité
     • Municipalité de canton
@@ -78,6 +80,7 @@ Date de la réunion des membres de la Commission de toponymie, à laquelle a ét
 
 #### Origine linguistique
 Origine linguistique du premier mot spécifique du toponyme. Voici la liste des désignations possibles :
+
     • Français
     • Anglais
     • Langue amérindienne indéterminée
