@@ -45,7 +45,7 @@ Coordonnée géographique du lieu en format décimal pour être utilisé par les
 #### Feuillet_cartographique
 Numéro de la carte topographique à l’échelle 1/50 000, établi selon le système national de référence cartographique (S. N. R. C.) et qui correspond aux coordonnées géographiques où se trouve le toponyme. Par exemple : 21L/11.
 
-#### Territoire de municipalité locale
+### Territoire de municipalité locale
 Territoire administratif auquel se rattache le toponyme. Peut être une municipalité locale ou un territoire non organisé.
 
 #### Code_geographique
