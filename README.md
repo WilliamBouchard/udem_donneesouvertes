@@ -13,6 +13,15 @@ COMMISSION DE TOPONYMIE. Toponymes désofficialisés, [Jeu de données], dans Do
 
 ## Organisation du dépôt
 
+``` text
+udem_donneesouvertes/
+├── data/               Données de base. Décrites ci-haut. 
+├── workfiles/          Fichiers de travail qui permettent de manipuler les données
+├── results/            Figure et données résultant des opérations de transformation
+├── LICENSE             License du projet, CC-BY4.0
+└── README.md           Plan du repo, description du projet
+```
+
 ## Structure des données
 
 Le fichier des changements de noms aux toponymes répertorie les noms de lieux qui ont déjà été officiels et qui ont été remplacés par un autre nom. En voici la liste des champs.
