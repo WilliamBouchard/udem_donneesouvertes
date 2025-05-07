@@ -24,6 +24,8 @@ udem_donneesouvertes/
 
 ## Structure des données
 
+Ces informations sont tirées des métadonnées offertes par Données Québec avec le jeu de données. 
+
 Le fichier des changements de noms aux toponymes répertorie les noms de lieux qui ont déjà été officiels et qui ont été remplacés par un autre nom. En voici la liste des champs.
 
 #### Identifiant
@@ -115,6 +117,7 @@ Partie spécifique du nom du lieu. La valeur de cette colonne est dérivée de l
 #### Partie_générique
 Partie générique du nom du lieu. La valeur de cette colonne est dérivée de la colonne toponyme. Si le toponyme comporte une virgule, il s’agit de la chaîne de caractère suivant la virgule et l’espace. Sinon le champ est vide.
 
+# License
 
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
 
