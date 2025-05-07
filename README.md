@@ -117,7 +117,7 @@ Partie spécifique du nom du lieu. La valeur de cette colonne est dérivée de l
 #### Partie_générique
 Partie générique du nom du lieu. La valeur de cette colonne est dérivée de la colonne toponyme. Si le toponyme comporte une virgule, il s’agit de la chaîne de caractère suivant la virgule et l’espace. Sinon le champ est vide.
 
-# License
+# Licence
 
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
 
