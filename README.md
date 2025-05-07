@@ -7,20 +7,20 @@ En tant que philologue, ma recherche porte sur **la structuration, la diffusion 
 
 Dans le cadre du cours HNU6055, je m'intéresse aux variations statistiques entre les origines linguistiques des toponymes désofficialisés par la Commission de toponymie du Québec. 
 
-## Source des données
-
-COMMISSION DE TOPONYMIE. Toponymes désofficialisés, [Jeu de données], dans Données Québec, 2016, mis à jour le 14 mars 2025. [https://www.donneesquebec.ca/recherche/dataset/toponymes-desofficialises], (consulté le 07 mai 2025).
-
 ## Organisation du dépôt
 
 ``` text
 udem_donneesouvertes/
-├── data/               Données de base. Décrites ci-haut. 
+├── data/               Données de base. Décrites ci-bas. 
 ├── workfiles/          Fichiers de travail qui permettent de manipuler les données
 ├── results/            Figure et données résultant des opérations de transformation
 ├── LICENSE             License du projet, CC-BY4.0
 └── README.md           Plan du repo, description du projet
 ```
+
+## Source des données
+
+COMMISSION DE TOPONYMIE. Toponymes désofficialisés, [Jeu de données], dans Données Québec, 2016, mis à jour le 14 mars 2025. [https://www.donneesquebec.ca/recherche/dataset/toponymes-desofficialises], (consulté le 07 mai 2025).
 
 ## Structure des données
 
