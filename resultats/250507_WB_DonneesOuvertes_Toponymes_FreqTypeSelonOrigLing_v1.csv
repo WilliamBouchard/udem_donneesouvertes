@@ -1,0 +1,649 @@
+Origine_linguistique,Type_entite,Count - Origine_linguistique
+Abénaquis,Barrage,2
+,Batture,1
+,Bureau de poste,1
+,Circonscription électorale,2
+,Circonscription foncière,4
+,District électoral,3
+,Division de recensement,3
+,Gorges,1
+,Île,1
+,Municipalité de canton,1
+,Municipalité de village,3
+,Parc national,1
+,Place,1
+,Pointe,1
+,Pont,1
+,Ruisseau,1
+,Zone d'aménagement et de conservation,1
+Algonquin,Aéroport,1
+,Arrondissement historique,1
+,Baie,5
+,Barrage,5
+,Chenal,1
+,Chute,1
+,Circonscription foncière,4
+,Collines,2
+,Communauté urbaine,1
+,Confluent,1
+,Dépôt forestier,1
+,Digues,3
+,District électoral,1
+,Division de recensement,4
+,Hameau,3
+,Île,3
+,Lac,71
+,Lacs,1
+,Lieu-dit,1
+,Milieu humide,1
+,Mont,2
+,Municipalité,1
+,Municipalité de canton,1
+,Municipalité de paroisse,1
+,Municipalité de village,1
+,Parc industriel,1
+,Partie de réservoir,1
+,Pointe,2
+,Portage,7
+,Rapides,1
+,Région administrative,1
+,Réserve indienne,3
+,Réservoir,1
+,Rivière,20
+,Ruisseau,19
+,Section de cours d'eau,30
+,Territoire non organisé,1
+,Village,1
+,Zone d'aménagement et de conservation,8
+Anglais,Anse,28
+,Arrondissement,6
+,Baie,56
+,Banc de sable,2
+,Barrage,22
+,Barre,1
+,Bassin de sédimentation,2
+,Bassin portuaire,1
+,Bâtiment,1
+,Batture,1
+,Belvédère,1
+,Bibliothèque,2
+,Bien patrimonial,1
+,Bureau de poste,15
+,Canton,2
+,Cap,9
+,Caserne de pompiers,2
+,Caverne,1
+,Centrale hydroélectrique,2
+,Centre de villégiature,5
+,Centre éducatif forestier,1
+,Chenal,6
+,Chute,10
+,Chutes,4
+,Circonscription électorale,5
+,Circonscription foncière,13
+,Colline,13
+,Collines,1
+,Corniche,1
+,Corniches,1
+,Courant,1
+,Cours d'eau agricole,5
+,Crevasse,3
+,Dépôt forestier,2
+,District électoral,42
+,Division de recensement,13
+,Estran,1
+,Étang,33
+,Falaise,3
+,Fosse à saumon,6
+,Hameau,26
+,Haut-fond,9
+,Havre,1
+,Île,59
+,Îles,8
+,Îlot,8
+,Îlots,1
+,Jardin zoologique,1
+,Lac,945
+,Lacs,18
+,Lieu-dit,15
+,Méandre,1
+,Milieu humide,4
+,Mont,27
+,Municipalité,26
+,Municipalité de canton,60
+,Municipalité de cantons unis,8
+,Municipalité de paroisse,3
+,Municipalité de village,30
+,Municipalité de village cri,1
+,Municipalité de village nordique,1
+,Municipalité régionale de comté,2
+,Niche,1
+,Parc linéaire,1
+,Parc public,35
+,Parc régional,1
+,Parc technologique,1
+,Paroisse,3
+,Partie de lac,2
+,Partie de réservoir,3
+,Passe,7
+,Place commémorative,1
+,Plage,5
+,Plaines,1
+,Pointe,46
+,Pont,15
+,Pont couvert,5
+,Presqu'île,3
+,Quai,1
+,Rapide,4
+,Rapides,5
+,Ravin,1
+,Récif,4
+,Récifs,2
+,Réserve de chasse et de pêche,2
+,Réserve faunique,1
+,Réserve indienne,3
+,Réservoir,1
+,Rivière,35
+,Roche,1
+,Rocher,11
+,Rochers,2
+,Ruisseau,138
+,Secteur,9
+,Secteur résidentiel,4
+,Section de cours d'eau,2
+,Site historique,3
+,Sommet,3
+,Square,2
+,Station de métro,3
+,Village,14
+,Village cri,1
+,Ville,14
+,Zone d'exploitation contrôlée,1
+Attikamek,Baie,5
+,Barrage,1
+,Centrale thermique,1
+,Chutes,1
+,Confluent,1
+,Île,1
+,Lac,108
+,Lacs,2
+,Parc technologique,1
+,Pointe,1
+,Portage,2
+,Réserve indienne,1
+,Réservoir,1
+,Rivière,9
+,Rocher,1
+,Ruisseau,3
+,Territoire non organisé,1
+Autre,Anse,1
+,Baie,3
+,Barrage,1
+,Canton,1
+,Chute,1
+,Colline,1
+,Côte orographique,1
+,Cours d'eau agricole,1
+,District électoral,15
+,Division de recensement,1
+,Étang,9
+,Étangs,1
+,Hameau,2
+,Île,4
+,Lac,38
+,Lacs,4
+,Lieu-dit,1
+,Mont,2
+,Municipalité,3
+,Municipalité de village,1
+,Municipalité régionale de comté,1
+,Parc public,7
+,Partie de diocèse,1
+,Pointe,1
+,Pont,1
+,Rapides,1
+,Réserve indienne,1
+,Rivière,2
+,Ruisseau,5
+,Secteur résidentiel,1
+Cri,Baie,9
+,Circonscription foncière,1
+,Colline,1
+,District électoral,3
+,Division de recensement,1
+,Halte routière,1
+,Île,6
+,Îles,2
+,Lac,22
+,Langue de terre,1
+,Milieu humide,1
+,Municipalité de village cri,2
+,Partie de diocèse,1
+,Partie de réservoir,8
+,Passe,3
+,Pointe,3
+,Pont,3
+,Portage,1
+,Rapides,1
+,Rivière,6
+,Village cri,2
+,Ville,1
+Français,Aérodrome,2
+,Aéroport,4
+,Agglomération,1
+,Amphithéâtre,1
+,Anse,79
+,Archidiocèse,1
+,Arrêt ferroviaire,2
+,Arrondissement,21
+,Arrondissement historique,9
+,Arrondissement historique et naturel,1
+,Arrondissement naturel,4
+,Baie,111
+,Banc de pêche,1
+,Banc de sable,5
+,Bancs de sable,1
+,Barrage,94
+,Barrages,4
+,Base de plein air,3
+,Base militaire,1
+,Batture,2
+,Battures,5
+,Belvédère,2
+,Bibliothèque,1
+,Bien patrimonial,4
+,Bois,3
+,Bras,1
+,Bureau de poste,79
+,Butte,2
+,Camp,10
+,Canal,3
+,Canton,47
+,Cap,31
+,Caserne de pompiers,4
+,Caverne,3
+,Centrale hydroélectrique,7
+,Centrale nucléaire,1
+,Centrale thermique,2
+,Centre communautaire,1
+,Centre culturel,1
+,Centre d'interprétation de la nature,1
+,Centre de ski,3
+,Centre de villégiature,34
+,Centre éducatif forestier,6
+,Centre sportif,1
+,Chenal,15
+,Chute,27
+,Chutes,11
+,Circonscription électorale,44
+,Circonscription foncière,51
+,Cité,6
+,Colline,15
+,Collines,2
+,Communauté urbaine,1
+,Commune,2
+,Côte orographique,11
+,Courbe,1
+,Cours d'eau agricole,62
+,Cratère météorique,1
+,Crique,1
+,Dépôt forestier,2
+,Desserte,18
+,Digue,5
+,Digues,7
+,Diocèse,1
+,District électoral,618
+,Division de recensement,59
+,Domaine,1
+,Dune,3
+,Échangeur,1
+,Écosystème forestier exceptionnel,3
+,Édifice public,3
+,Établissement amérindien,1
+,Étang,40
+,Étangs,8
+,Falaise,2
+,Ferme,1
+,Fief,1
+,Flèche,3
+,Forêt d'enseignement et de recherche,1
+,Fosse à saumon,132
+,Habitat floristique,3
+,Halte piétonnière,2
+,Halte routière,17
+,Hameau,120
+,Haut-fond,8
+,Havre,3
+,Île,200
+,Îles,11
+,Îlot,18
+,Îlots,2
+,Jardin communautaire,2
+,Jardin public,2
+,Jonction,1
+,Kiosque,1
+,Lac,3491
+,Lac artificiel,8
+,Lacs,134
+,Lagune,3
+,Lieu-dit,54
+,Marina,2
+,Milieu humide,16
+,Milieux humides,2
+,Mont,59
+,Monts,3
+,Monument historique,6
+,Municipalité,195
+,Municipalité de canton,22
+,Municipalité de cantons unis,1
+,Municipalité de paroisse,320
+,Municipalité de village,136
+,Municipalité de village cri,4
+,Municipalité régionale de comté,19
+,Parc,1
+,Parc canin,1
+,Parc d'affaires,1
+,Parc de conservation,11
+,Parc de stationnement,2
+,Parc industriel,3
+,Parc multisport,1
+,Parc national,5
+,Parc national fédéral,1
+,Parc public,240
+,Parc régional,3
+,Parc riverain,2
+,Parc-école,7
+,Paroisse,579
+,Partie de lac,4
+,Partie de réservoir,7
+,Passage,1
+,Passe,4
+,Passerelle,4
+,Pavillon,1
+,Phare,1
+,Pic,1
+,Place,5
+,Place commémorative,8
+,Plage,11
+,Pointe,131
+,Ponceau,1
+,Pont,89
+,Pont couvert,25
+,Pont-tunnel,1
+,Port de plaisance,2
+,Portage,1
+,Porte,4
+,Poste de transformation,1
+,Poste électrique,1
+,Presqu'île,6
+,Promontoire,2
+,Quai,4
+,Quartier,3
+,Rapide,36
+,Rapides,20
+,Ravin,5
+,Récif,3
+,Récifs,4
+,Région administrative,2
+,Région de biosphère,3
+,Réserve aquatique,2
+,Réserve de chasse,1
+,Réserve de chasse et de pêche,7
+,Réserve de pêche,3
+,Réserve écologique,2
+,Réserve faunique,14
+,Réserve indienne,4
+,Réservoir,4
+,Rivière,246
+,Roche,3
+,Rocher,15
+,Rochers,2
+,Roches,2
+,Ruisseau,486
+,Sanctuaire,1
+,Secteur,49
+,Secteur de villégiature,1
+,Secteur résidentiel,34
+,Section de cours d'eau,8
+,Seigneurie,4
+,Sentier,14
+,Sentier d'interprétation,1
+,Sentier de randonnée pédestre,1
+,Sentier polyvalent,2
+,Seuil hydrographique,1
+,Site archéologique,3
+,Site archéologique et historique,4
+,Site historique,39
+,Sommet,2
+,Station de chemin de fer,1
+,Station de métro,20
+,Station forestière,1
+,Terrain de camping,5
+,Terrasse,1
+,Territoire équivalent à une MRC,1
+,Territoire non organisé,27
+,Vallée,1
+,Village,48
+,Village cri,3
+,Ville,83
+,Zone d'aménagement et de conservation,23
+,Zone d'exploitation contrôlée,4
+Hybride,Aéroport,1
+,Bureau de poste,1
+,Circonscription foncière,1
+,District électoral,2
+,Division de recensement,1
+,Hameau,2
+,Lac,2
+,Milieux humides,1
+,Municipalité,3
+,Municipalité de canton,1
+,Municipalité de village,12
+,Municipalité de village naskapi,1
+,Parc de conservation,1
+,Réserve de chasse et de pêche,2
+,Secteur,2
+,Village,1
+,Ville,2
+,Zone d'aménagement et de conservation,1
+Inconnu,Anse,3
+,Baie,3
+,Bancs,1
+,Barrage,1
+,Cap,1
+,Chute,2
+,Colline,2
+,Havre,1
+,Île,12
+,Îlots,1
+,Lac,118
+,Lac artificiel,1
+,Lieu-dit,1
+,Mont,3
+,Municipalité,1
+,Parc public,3
+,Plage,1
+,Pointe,4
+,Rapides,1
+,Récifs,1
+,Rivière,4
+,Rocher,1
+,Ruisseau,14
+,Secteur résidentiel,1
+,Village,1
+Indifférencié,Anse,3
+,Baie,1
+,Barrage,1
+,Cap,1
+,Centre de villégiature,1
+,Cours d'eau agricole,2
+,District électoral,2
+,Haut-fond,3
+,Île,7
+,Lac,131
+,Lacs,2
+,Lieu-dit,1
+,Mont,1
+,Municipalité de canton,1
+,Pointe,3
+,Pont,1
+,Réserve de chasse et de pêche,1
+,Rivière,2
+,Ruisseau,14
+,Village,1
+,Village cri,2
+,Ville,3
+Innu,Baie,1
+,Barrage,5
+,Brisants,1
+,Bureau de poste,1
+,Canton,1
+,Centrale hydroélectrique,2
+,Chenal,1
+,Chute,3
+,Digue,2
+,Division de recensement,1
+,Étang,1
+,Île,4
+,Îles,1
+,Lac,29
+,Lieu-dit,5
+,Mont,2
+,Municipalité de canton,1
+,Parc national,1
+,Parc public,1
+,Partie de réservoir,1
+,Pointe,2
+,Pont,1
+,Portage,3
+,Poste de transport,1
+,Rapides,5
+,Récifs,1
+,Région de biosphère,1
+,Réserve de chasse et de pêche,1
+,Réserve indienne,2
+,Réservoir,3
+,Rivière,11
+,Rocher,1
+,Rochers,1
+,Ruisseau,5
+,Section de cours d'eau,1
+,Site archéologique,1
+,Village,3
+,Ville,3
+,Zone d'aménagement et de conservation,5
+Inuktitut,Anse,2
+,Baie,9
+,Bureau de poste,1
+,Camp saisonnier,8
+,Cap,9
+,Caps,2
+,Carrière,1
+,Centrale thermique,1
+,Chenal,1
+,Chute,1
+,Colline,16
+,Collines,4
+,Éolienne,1
+,Étangs,1
+,Falaise,1
+,Havre,1
+,Île,29
+,Îles,4
+,Lac,76
+,Lieu de pêche,1
+,Lieu-dit,2
+,Mont,3
+,Monts,2
+,Mouillage,1
+,Municipalité de village nordique,3
+,Passe,5
+,Piste,1
+,Pointe,29
+,Pointes,1
+,Rivière,23
+,Rocher,1
+,Ruisseau,3
+,Section de cours d'eau,29
+,Village,2
+Langue amérindienne indéterminée,Baie,8
+,Barrage,5
+,Brisants,1
+,Bureau de poste,2
+,Camp,1
+,Canton,2
+,Cap,3
+,Centre éducatif forestier,1
+,Chute,1
+,Circonscription électorale,3
+,Circonscription foncière,5
+,Communauté urbaine,1
+,Digue,1
+,District électoral,4
+,Division de recensement,4
+,Étang,1
+,Havre,1
+,Île,5
+,Lac,185
+,Lacs,3
+,Mont,2
+,Municipalité,2
+,Municipalité de paroisse,1
+,Municipalité de village,3
+,Municipalité régionale de comté,1
+,Parc national,1
+,Parc public,2
+,Parc-école,1
+,Partie de lac,1
+,Passe,2
+,Pointe,6
+,Pont,3
+,Portage,1
+,Porte,1
+,Poste de transport,1
+,Réserve indienne,3
+,Rivière,24
+,Rocher,1
+,Ruisseau,3
+,Terrain de camping,1
+,Village,2
+,Ville,1
+,Zone d'aménagement et de conservation,5
+Malécite,Centre éducatif forestier,1
+,Circonscription foncière,1
+,Division de recensement,1
+,Lac,3
+,Municipalité de village,1
+Micmac,Aéroport,1
+,Barrage,2
+,Bureau de poste,2
+,Circonscription électorale,3
+,Circonscription foncière,4
+,Division de recensement,6
+,Lac,1
+,Lieu-dit,1
+,Municipalité,3
+,Municipalité de canton,2
+,Municipalité régionale de comté,1
+,Parc de conservation,1
+,Réserve indienne,1
+,Rivière,2
+,Site historique,1
+,Village,1
+Mohawk,Canton,1
+,Réserve indienne,1
+Naskapis,Chute,1
+,Colline,1
+,Falaise,1
+,Lac,12
+,Lacs,1
+,Lieu-dit,2
+,Mont,3
+,Pointe,1
+,Portage,1
+,Réserve de chasse et de pêche,1
+,Rivière,5
+,Ruisseau,1
+Wendat,Lac,4
+,Pont,1
+Total Result,,12765
