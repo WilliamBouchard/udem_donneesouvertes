@@ -11,14 +11,21 @@ Dans le cadre du cours HNU6055, je m'intéresse aux variations statistiques entr
 
 ``` text
 udem_donneesouvertes/
-├── data/               Données de base. Décrites ci-bas. 
-├── workfiles/          Fichiers de travail qui permettent de manipuler les données
-├── results/            Figure et données résultant des opérations de transformation
-├── LICENSE             License du projet, CC-BY4.0
-└── README.md           Plan du repo, description du projet
+├── donnees/                                                                              Contient les tableaux de données de base
+│    └── 250505_WB_DonneesOuvertes_ToponymesDesofficialises_TableDonnees_v1.csv           Tableau des toponymes désofficialisés, leurs origines linguistiques et autres informations liées
+├── figures/                                                                              Contient les figures générées à partir des résultats
+│    ├── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesLogOrigLing_v1.png      Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés (échelle logarithmique)
+│    └── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesOrigLing_v1.png         Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés
+├── resultats/                                                                            Contient les tableaux résultant d'opérations de transformation sur les données
+│    ├── 250507_WB_DonneesOuvertes_Toponymes_FreqOrigLing_v1.csv                          Tableau de fréquence des origines linguistiques des toponymes désofficialisés
+│    └── 250507_WB_DonneesOuvertes_Toponymes_FreqTypeSelonOrigLing_v1.csv                 Tableau de fréquence des types d'entité des toponymes désofficialisés selon leur origine linguistique
+├── LICENSE                                                                               License du projet, CC-BY4.0
+└── README.md                                                                             Plan du repo, description du projet
 ```
 
 ## Source des données
+
+**250505_WB_DonneesOuvertes_ToponymesDesofficialises_TableDonnees_v1.csv**:
 
 COMMISSION DE TOPONYMIE. Toponymes désofficialisés, [Jeu de données], dans Données Québec, 2016, mis à jour le 14 mars 2025. [https://www.donneesquebec.ca/recherche/dataset/toponymes-desofficialises], (consulté le 07 mai 2025).
 
