@@ -12,9 +12,9 @@ Dans le cadre du cours HNU6055, je m'intéresse aux variations statistiques entr
 ``` text
 udem_donneesouvertes/
 ├── code/                                                                                 Contient les scripts utilisés pour manipuler et visualiser les données
-│    └── 250509_WB_DonneesOuvertes_Toponymes_VisualisationGeographique_v1.ipynb           Jupyter Notebook qui permet de visualiser les coordonnées des toponymes et en créer des captures d'écran
+│    └── 250509_WB_DonneesOuvertes_Toponymes_VisualisationGeographique_v1.ipynb           Notebook qui permet de visualiser les coordonnées des toponymes et en créer des captures d'écran
 ├── donnees/                                                                              Contient les tableaux de données de base
-│    └── 250505_DQ_DonneesOuvertes_Toponymes_TableDonnees_v1.csv           Tableau des toponymes désofficialisés, leurs origines linguistiques et autres informations liées
+│    └── 250505_DQ_DonneesOuvertes_Toponymes_TableDonnees_v1.csv                          Tableau des toponymes désofficialisés, leurs origines linguistiques et autres informations liées
 ├── figures/                                                                              Contient les figures générées à partir des résultats
 │    ├── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesLogOrigLing_v1.png      Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés (échelle logarithmique)
 │    ├── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesOrigLing_v1.png         Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés
