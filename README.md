@@ -11,11 +11,16 @@ Dans le cadre du cours HNU6055, je m'intéresse aux variations statistiques entr
 
 ``` text
 udem_donneesouvertes/
+├── code/                                                                                 Contient les scripts utilisés pour manipuler et visualiser les données
+│    └── 250509_WB_DonneesOuvertes_Toponymes_VisualisationGeographique_v1.ipynb           Jupyter Notebook qui permet de visualiser les coordonnées des toponymes et en créer des captures d'écran
 ├── donnees/                                                                              Contient les tableaux de données de base
-│    └── 250505_DQ_DonneesOuvertes_ToponymesDesofficialises_TableDonnees_v1.csv           Tableau des toponymes désofficialisés, leurs origines linguistiques et autres informations liées
+│    └── 250505_DQ_DonneesOuvertes_Toponymes_TableDonnees_v1.csv           Tableau des toponymes désofficialisés, leurs origines linguistiques et autres informations liées
 ├── figures/                                                                              Contient les figures générées à partir des résultats
 │    ├── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesLogOrigLing_v1.png      Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés (échelle logarithmique)
-│    └── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesOrigLing_v1.png         Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés
+│    ├── 250507_WB_DonneesOuvertes_Toponymes_HistogrammeFrequencesOrigLing_v1.png         Histogramme: fréquence de l'origine linguistique des toponymes désofficialisés
+│    ├── 250509_WB_DonneesOuvertes_Toponymes_HeatmapComplete_v1.png                       Carte thermique (Heatmap) de tous les toponymes désofficialés 
+│    ├── 250509_WB_DonneesOuvertes_Toponymes_HeatmapFrancaisAnglais_v1.png                Carte thermique (Heatmap) des toponymes désofficialés issus de l'anglais et du français
+│    └── 250509_WB_DonneesOuvertes_Toponymes_HeatmapLanguesAutochtones_v1.png             Carte thermique (Heatmap) des toponymes désofficialés issus de langues autochtones
 ├── resultats/                                                                            Contient les tableaux résultant d'opérations de transformation sur les données
 │    ├── 250507_WB_DonneesOuvertes_Toponymes_FreqOrigLing_v1.csv                          Tableau de fréquence des origines linguistiques des toponymes désofficialisés
 │    └── 250507_WB_DonneesOuvertes_Toponymes_FreqTypeSelonOrigLing_v1.csv                 Tableau de fréquence des types d'entité des toponymes désofficialisés selon leur origine linguistique
@@ -25,13 +30,11 @@ udem_donneesouvertes/
 
 ## Source des données
 
-**250505_DQ_DonneesOuvertes_ToponymesDesofficialises_TableDonnees_v1.csv**:
-
 COMMISSION DE TOPONYMIE. Toponymes désofficialisés, [Jeu de données], dans Données Québec, 2016, mis à jour le 14 mars 2025. [https://www.donneesquebec.ca/recherche/dataset/toponymes-desofficialises], (consulté le 07 mai 2025).
 
 ## Structure des données
 
-Ces informations sont tirées des métadonnées offertes par Données Québec avec le jeu de données. 
+Ces informations sont tirées des métadonnées offertes par Données Québec avec le jeu de données et sont également mises à disposition sous license CC-BY. 
 
 Le fichier des changements de noms aux toponymes répertorie les noms de lieux qui ont déjà été officiels et qui ont été remplacés par un autre nom. En voici la liste des champs.
 
