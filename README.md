@@ -1,5 +1,3 @@
-Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
-
 # HNU6055: Humanités numériques: données ouvertes
 Le cours *Humanités numériques : données ouvertes* m'intéresse parce qu'il aborde la question cruciale de l'accès aux données dans la recherche en sciences humaines.
 
@@ -127,6 +125,8 @@ Partie spécifique du nom du lieu. La valeur de cette colonne est dérivée de l
 Partie générique du nom du lieu. La valeur de cette colonne est dérivée de la colonne toponyme. Si le toponyme comporte une virgule, il s’agit de la chaîne de caractère suivant la virgule et l’espace. Sinon le champ est vide.
 
 # Licence
+
+Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Cette œuvre est mise à disposition selon les termes de la
 [licence Creative Commons Attribution 4.0 International][cc-by].
